@@ -26,7 +26,7 @@ SECRET_KEY = '72ta0jc%vd(j)80oxri-*!x+uzy76p%ixl_f2m!f5qlhtsec@$'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'http://mazevedofs.pythonanywhere.com/',
+    'mazevedofs.pythonanywhere.com',
 ]
 
 
