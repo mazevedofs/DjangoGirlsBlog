@@ -25,7 +25,9 @@ SECRET_KEY = '72ta0jc%vd(j)80oxri-*!x+uzy76p%ixl_f2m!f5qlhtsec@$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'http://mazevedofs.pythonanywhere.com/',
+]
 
 
 # Application definition
